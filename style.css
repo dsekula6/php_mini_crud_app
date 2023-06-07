@@ -1,0 +1,88 @@
+.bodyindex {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main {
+    width: 1000px;
+}
+ul {
+    list-style-type: none;
+}
+img {
+    width: 100%;
+}
+h1 {
+    font-size: xx-large;
+}
+ul {
+    margin-left: auto;
+    margin-right: auto;
+}
+li {
+    padding: 0px;
+}
+.redtin {
+    margin-left: auto;
+    margin-right: auto;
+}
+.tindecko {
+    margin: 0 30px;
+    outline-width: 1px;
+    outline-color: gray;
+    outline-style: solid;
+    padding: 0px;
+}
+.tindecko div {
+    padding: 0px;
+}
+.containerLink {
+    position: relative;
+}
+.tekstLink {
+    position: relative;
+    top: -30px;
+
+}
+
+h2 {
+    position: relative;
+    top: -30px;
+    width: 85%;
+   
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    
+    font-size: large;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+a, a:active, a:visited {
+    color: black;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+footer {
+    padding: 50px;
+    height: 50px;
+}
+
+
+.slika {
+    width: 60%;
+}
+
+header {
+    text-align: center;
+}
+@media (max-width:768px) {
+    .tindecko {
+        width: 85%;
+        margin: 5px auto;
+    }
+    .redtin {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
